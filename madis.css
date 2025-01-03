@@ -1,0 +1,31 @@
+.pics-container {
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+    flex: 1;
+    gap: 8px;
+}
+
+header{
+    margin: 2rem;
+}
+
+.pic{
+   text-align: baseline;
+   margin-bottom: 1rem;
+   margin-top: 1rem;
+
+}
+
+section{
+    width: 70%;
+    margin:0 auto;
+}
+
+
+
+/* 
+RAY LOOK
+https://www.w3schools.com/cssref/tryit.php?filename=trycss3_flex_responsive */
+
+

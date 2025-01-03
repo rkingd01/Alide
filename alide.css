@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+
+  body{
+    margin-top: 3rem;
+  }
+
+.openerAlide{
+    font-weight: 500;
+    display:flex;
+    flex-direction: column;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 2rem;
+    
+
+}
+
+.openerAlide h1{
+    padding-bottom: 1rem;
+}
+
